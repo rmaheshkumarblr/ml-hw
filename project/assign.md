@@ -121,6 +121,6 @@ The grade will be out of 25 points, broken into five areas:
   did you use them correctly?  Were the relevant to this class?
 
 * _Effort_: Did you do what you say you would, and was it the right
-  ammount of effort.
+  amount of effort.
 
 * _Performance_: How did your techniques perform?
